@@ -4,6 +4,8 @@
 This project builds an AI customer support assistant using LangGraph.  
 A user asks a support question, the workflow analyzes intent, sentiment, and urgency in parallel, routes the request to the right specialist agent (billing/technical/general), checks response quality, and iterates until the answer is good enough before returning a final response.
 
+Workflow diagram: [`graph.png`](graph.png)
+
 ### 2) Assignment (Build It From Scratch)
 If you are creating this project from scratch, your assignment is:
 

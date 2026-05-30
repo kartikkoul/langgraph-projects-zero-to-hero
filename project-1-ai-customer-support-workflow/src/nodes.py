@@ -2,7 +2,7 @@ from langchain_core.messages import AIMessage, HumanMessage
 from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
 
-from prompts import (
+from src.prompts import (
     AgentAssignmentPrompt,
     BillingAgentPrompt,
     GeneralAgentPrompt,
@@ -12,7 +12,7 @@ from prompts import (
     TechnicalAgentPrompt,
     UrgencyAnalyzerPrompt,
 )
-from state_schemas import CustomerAgentState
+from src.state_schemas import CustomerAgentState
 
 load_dotenv()
 

@@ -1,8 +1,8 @@
 [project]
-name = "learning-langgraph"
+name = "ai-customer-support-workflow"
 version = "0.1.0"
-description = "Add your description here"
-readme = "README.md"
+description = "A simple LangGraph workflow where a user sends a support query, and your graph processes it intelligently."
+readme = "project_1.md"
 requires-python = ">=3.13"
 dependencies = [
     "dotenv>=0.9.9",

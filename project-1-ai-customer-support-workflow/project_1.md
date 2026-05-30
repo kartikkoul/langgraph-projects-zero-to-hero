@@ -37,9 +37,10 @@ If you are creating this project from scratch, your assignment is:
 
 5. Compile and run the graph
 
-> Note: You can choose to implement or ignore `streamlit_app.py` and `api.py`.  
+> Note: You can choose to implement or ignore `src/streamlit_app.py` and `main.py`.  
 > They are only for testing/visualizing streaming responses.  
 > The main focus of this project is creating the LangGraph agent and executing it.
+> If you choose to ignore them, just focus on the other files in src and run `src/index.py` to see the bot running in CLI.
 
 6. Validate with multiple test queries:
    - billing issue

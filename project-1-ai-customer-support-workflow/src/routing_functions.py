@@ -1,4 +1,4 @@
-from state_schemas import CustomerAgentState
+from src.state_schemas import CustomerAgentState
 
 
 def agent_assigner_router(state: CustomerAgentState):

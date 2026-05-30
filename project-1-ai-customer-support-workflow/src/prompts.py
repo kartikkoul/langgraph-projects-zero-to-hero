@@ -3,7 +3,7 @@ from abc import ABC
 from langchain_core.output_parsers import PydanticOutputParser, StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 
-from schemas import IntentSchema, QualityScoreSchema, SentimentSchema, UrgencySchema
+from src.schemas import IntentSchema, QualityScoreSchema, SentimentSchema, UrgencySchema
 
 str_parser = StrOutputParser()
 

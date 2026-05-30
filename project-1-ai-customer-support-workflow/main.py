@@ -1,8 +1,9 @@
 from fastapi import FastAPI
 from fastapi.responses import StreamingResponse
 from pydantic import BaseModel
+import uvicorn
 
-from index import stream_workflow_sse
+from src.index import stream_workflow_sse
 
 app = FastAPI(title="Customer Support Workflow API")
 
@@ -35,3 +36,6 @@ def chat_stream_get(user_query: str) -> StreamingResponse:
             "X-Accel-Buffering": "no",
         },
     )
+
+if __name__ == "__main__":
+    uvicorn.run("main:app", host="127.0.0.1", port=8000, reload=True)

@@ -41,9 +41,7 @@ For the complete assignment, checklist, and next additions, open:
 [`project-1-ai-customer-support-workflow/project_1.md`](project-1-ai-customer-support-workflow/project_1.md)
 
 ---
-
----
-## RAG architectures using LangGraph
+# RAG architectures using LangGraph
 ---
 ## CRAG (Corrective RAG) PDF QnA
 A RAG architecture that uses a Corrective RAG approach to improve the accuracy of the answers.

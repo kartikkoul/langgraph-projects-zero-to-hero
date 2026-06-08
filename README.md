@@ -1,6 +1,5 @@
 # LangGraph Practice Projects: Zero to Hero
 
----
 
 ## What this repository is about
 
@@ -40,9 +39,9 @@ A simple workflow where a user sends a support query and the graph processes it 
 For the complete assignment, checklist, and next additions, open:  
 [`project-1-ai-customer-support-workflow/project_1.md`](project-1-ai-customer-support-workflow/project_1.md)
 
----
+
 # RAG architectures using LangGraph
----
+
 ## CRAG (Corrective RAG) PDF QnA
 A RAG architecture that uses a Corrective RAG approach to improve the accuracy of the answers.
 
@@ -57,7 +56,6 @@ A RAG architecture that uses a Corrective RAG approach to improve the accuracy o
 ### Full Project: CRAG (Corrective RAG) PDF QnA guide
 For the complete assignment, checklist, and next additions, open:  
 ['rag-architectures/crag-pdf-qna/crag_agent.md'](rag-architectures/crag-pdf-qna/crag_agent.md)
-
 
 # Support this repository
 

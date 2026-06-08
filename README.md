@@ -57,7 +57,7 @@ A RAG architecture that uses a Corrective RAG approach to improve the accuracy o
 
 ### Full Project: CRAG (Corrective RAG) PDF QnA guide
 For the complete assignment, checklist, and next additions, open:  
-[`rag-architectures/crag-pdf-qna/crag_agent.md`](rag-architectures/crag-pdf-qna/crag_agent.md)
+[`rag_architectures/crag-pdf-qna/crag_agent.md`](rag_architectures/crag-pdf-qna/crag_agent.md)
 
 ---
 # Support this repository

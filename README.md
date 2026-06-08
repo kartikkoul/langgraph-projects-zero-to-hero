@@ -42,8 +42,26 @@ For the complete assignment, checklist, and next additions, open:
 
 ---
 
+---
+## RAG architectures using LangGraph
+---
+## CRAG (Corrective RAG) PDF QnA
+A RAG architecture that uses a Corrective RAG approach to improve the accuracy of the answers.
 
-## Support this repository
+**You will practice:**
+- Corrective RAG approach
+- Document ingestion using LangChain
+- Document retrieval using LangChain
+- Web search using Tavily
+- Document evaluation 
+- Document refinement
+
+### Full Project: CRAG (Corrective RAG) PDF QnA guide
+For the complete assignment, checklist, and next additions, open:  
+['rag-architectures/crag-pdf-qna/crag_agent.md'](rag-architectures/crag-pdf-qna/crag_agent.md)
+
+
+# Support this repository
 
 If you found this repo helpful:
 
